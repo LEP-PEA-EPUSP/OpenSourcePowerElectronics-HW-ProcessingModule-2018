@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=NetFONTE_1 Pin=P?-8
+Added Pin To Net: NetName=NetFONTE_5 Pin=FONTE-5
+Added Pin To Net: NetName=NetFONTE_5 Pin=P?-2
+Added Pin To Net: NetName=NetFONTE_5 Pin=P?-2
+Added Net: Name=NetFONTE_5
+Added Pin To Net: NetName=NetFONTE_7 Pin=FONTE-7
+Added Pin To Net: NetName=NetFONTE_7 Pin=P?-7
+Added Pin To Net: NetName=NetFONTE_7 Pin=P?-7
+Added Pin To Net: NetName=NetFONTE_7 Pin=P?-7
+Added Net: Name=NetFONTE_7
+Added Pin To Net: NetName=NetFONTE_8 Pin=FONTE-8
+Added Pin To Net: NetName=NetFONTE_8 Pin=P?-6
+Added Pin To Net: NetName=NetFONTE_8 Pin=P?-9
+Added Pin To Net: NetName=NetFONTE_8 Pin=P?-9
+Added Net: Name=NetFONTE_8
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component P? Header 7X2A
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component P? Header 7X2A

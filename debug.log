@@ -1,0 +1,21 @@
+[0818/150902:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[0818/150902:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0818/150902:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0818/150902:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0818/150902:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0818/150902:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0818/150902:ERROR:gl_surface_win.cc(69)] GLSurfaceEGL::InitializeOneOff failed.
+[0818/150902:ERROR:gpu_child_thread.cc(397)] Exiting GPU process due to errors during initialization
+[0818/150918:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0818/150918:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0818/150935:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Normalmente é permitida apenas uma utilização de cada endereço de soquete (protocolo/endereço de rede/porta). (0x2740)
+[0818/150935:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0818/150935:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0818/150935:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0818/150935:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 4: Renderer does not support PS 3.0.aborting!
+[0818/150935:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D9 failed with error EGL_NOT_INITIALIZED
+[0818/150935:ERROR:gl_surface_win.cc(69)] GLSurfaceEGL::InitializeOneOff failed.
+[0818/150935:ERROR:gpu_child_thread.cc(397)] Exiting GPU process due to errors during initialization
+[0818/163616:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0818/163616:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[1121/112308:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
