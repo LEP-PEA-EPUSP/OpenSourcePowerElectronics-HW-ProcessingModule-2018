@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=+ 5 V Pin=C20-2
+Removed Pin From Net: NetName=+ 5 V Pin=NAO ISOLADO-1
+Removed Pin From Net: NetName=GND Pin=NAO ISOLADO-7
+Removed Pin From Net: NetName=+ 5 V Pin=NAO ISOLADO-8
+Removed Pin From Net: NetName=GND Pin=NAO ISOLADO-14
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=+ 5 V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=NAO ISOLADO-1
+Added Pin To Net: NetName=+ 5 V Pin=NAO ISOLADO-7
+Added Pin To Net: NetName=GND Pin=NAO ISOLADO-8
+Added Pin To Net: NetName=+ 5 V Pin=NAO ISOLADO-14
+Added Pin To Net: NetName=+ 5 V Pin=R19-1
+Added Pin To Net: NetName=+ 5 V Pin=R20-1
+Added Pin To Net: NetName=+ 5 V Pin=R21-1
+Added Pin To Net: NetName=+ 5 V Pin=R22-1
+Added Pin To Net: NetName=+ 5 V Pin=R23-1
+Added Pin To Net: NetName=+ 5 V Pin=R24-1

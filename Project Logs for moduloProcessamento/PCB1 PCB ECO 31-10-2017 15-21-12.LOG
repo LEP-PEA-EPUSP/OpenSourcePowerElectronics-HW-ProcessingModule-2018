@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=TP1-7
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component INV1 Header 7X2A

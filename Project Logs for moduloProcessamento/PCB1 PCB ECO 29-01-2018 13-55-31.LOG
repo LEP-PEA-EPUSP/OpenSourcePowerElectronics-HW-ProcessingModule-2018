@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+ 5 V Pin=R19-1
+Removed Pin From Net: NetName=PA5 Pin=R19-2
+Removed Pin From Net: NetName=+ 5 V Pin=R20-1
+Removed Pin From Net: NetName=PC14 Pin=R20-2
+Removed Pin From Net: NetName=+ 5 V Pin=R21-1
+Removed Pin From Net: NetName=PH0 Pin=R21-2
+Removed Pin From Net: NetName=+ 5 V Pin=R22-1
+Removed Pin From Net: NetName=PC15 Pin=R22-2
+Removed Pin From Net: NetName=+ 5 V Pin=R23-1
+Removed Pin From Net: NetName=PH1 Pin=R23-2
+Removed Pin From Net: NetName=+ 5 V Pin=R24-1
+Removed Pin From Net: NetName=PC15 Pin=R24-2
+Added Pin To Net: NetName=PC15 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
