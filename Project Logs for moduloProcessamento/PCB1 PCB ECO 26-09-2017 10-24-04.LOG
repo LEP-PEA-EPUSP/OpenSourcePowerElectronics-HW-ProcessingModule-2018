@@ -1,0 +1,56 @@
+Added Component: Designator=P1(HDR2X25)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND ARM Pin=P1-1
+Added Pin To Net: NetName=GND ARM Pin=P1-2
+Added Pin To Net: NetName=VDD Pin=P1-3
+Added Pin To Net: NetName=VDD Pin=P1-4
+Added Pin To Net: NetName=GND ARM Pin=P1-5
+Added Pin To Net: NetName=NRST Pin=P1-6
+Added Pin To Net: NetName=PC1 Pin=P1-7
+Added Pin To Net: NetName=PC0 Pin=P1-8
+Added Pin To Net: NetName=PC3 Pin=P1-9
+Added Pin To Net: NetName=PC2 Pin=P1-10
+Added Pin To Net: NetName=PA1 Pin=P1-11
+Added Pin To Net: NetName=PA0 Pin=P1-12
+Added Pin To Net: NetName=PA3 Pin=P1-13
+Added Pin To Net: NetName=PA2 Pin=P1-14
+Added Pin To Net: NetName=PA5 Pin=P1-15
+Added Pin To Net: NetName=PA4 Pin=P1-16
+Added Pin To Net: NetName=PA7 Pin=P1-17
+Added Pin To Net: NetName=PA6 Pin=P1-18
+Added Pin To Net: NetName=PC5 Pin=P1-19
+Added Pin To Net: NetName=PC4 Pin=P1-20
+Added Pin To Net: NetName=PB1 Pin=P1-21
+Added Pin To Net: NetName=PB0 Pin=P1-22
+Added Pin To Net: NetName=GND ARM Pin=P1-23
+Added Pin To Net: NetName=PB2 Pin=P1-24
+Added Pin To Net: NetName=PE7 Pin=P1-25
+Added Pin To Net: NetName=PE8 Pin=P1-26
+Added Pin To Net: NetName=PE9 Pin=P1-27
+Added Pin To Net: NetName=PE10 Pin=P1-28
+Added Pin To Net: NetName=PE11 Pin=P1-29
+Added Pin To Net: NetName=PE12 Pin=P1-30
+Added Pin To Net: NetName=PE13 Pin=P1-31
+Added Pin To Net: NetName=PE14 Pin=P1-32
+Added Pin To Net: NetName=PE15 Pin=P1-33
+Added Pin To Net: NetName=PB10 Pin=P1-34
+Added Pin To Net: NetName=PB11 Pin=P1-35
+Added Pin To Net: NetName=PB12 Pin=P1-36
+Added Pin To Net: NetName=PB13 Pin=P1-37
+Added Pin To Net: NetName=PB14 Pin=P1-38
+Added Pin To Net: NetName=PB15 Pin=P1-39
+Added Pin To Net: NetName=PD8 Pin=P1-40
+Added Pin To Net: NetName=PD9 Pin=P1-41
+Added Pin To Net: NetName=PD10 Pin=P1-42
+Added Pin To Net: NetName=PD11 Pin=P1-43
+Added Pin To Net: NetName=PD12 Pin=P1-44
+Added Pin To Net: NetName=PD13 Pin=P1-45
+Added Pin To Net: NetName=PD14 Pin=P1-46
+Added Pin To Net: NetName=PD15 Pin=P1-47
+Added Pin To Net: NetName=NC Pin=P1-48
+Added Pin To Net: NetName=GND ARM Pin=P1-49
+Added Pin To Net: NetName=GND ARM Pin=P1-50
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component P1 Header 25X2

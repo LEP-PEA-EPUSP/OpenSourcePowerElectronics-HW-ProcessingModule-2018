@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=S bus (5.775 X 3.30 inches) Member=P?
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component P5 Header 6H

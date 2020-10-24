@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PE8 Pin=INV1-8
+Removed Pin From Net: NetName=PE9 Pin=INV1-9
+Removed Pin From Net: NetName=GND Pin=INV1-10
+Removed Pin From Net: NetName=+ 3 V ARM (PE15) Pin=INV1-11
+Added Pin To Net: NetName=PE9 Pin=INV1-8
+Added Pin To Net: NetName=PE11 Pin=INV1-9
+Added Pin To Net: NetName=PE13 Pin=INV1-10
+Added Pin To Net: NetName=PE14 Pin=INV1-11

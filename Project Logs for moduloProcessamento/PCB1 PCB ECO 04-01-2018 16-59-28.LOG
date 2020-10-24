@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PC14 Pin=NAO ISOLADO1-5
+Removed Pin From Net: NetName=PA5 Pin=NAO ISOLADO1-8
+Added Pin To Net: NetName=PA5 Pin=NAO ISOLADO1-5
+Added Pin To Net: NetName=+ 5 V Pin=NAO ISOLADO1-8

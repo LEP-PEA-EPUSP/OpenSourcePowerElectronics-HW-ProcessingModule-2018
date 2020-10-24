@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D? Old Footprint=SMC New Footprint=AXIAL-0.4
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component C? Cap
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component D? Diode

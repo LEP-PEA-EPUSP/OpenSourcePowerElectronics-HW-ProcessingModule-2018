@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+ 15 V Pin=INV1-6
+Added Pin To Net: NetName=GND Pin=INV1-7
+Added Pin To Net: NetName=- 15 V Pin=TP1-2
+Added Pin To Net: NetName=+ 5 V Pin=TP1-8
+Added Pin To Net: NetName=+ 15 V Pin=TP1-9

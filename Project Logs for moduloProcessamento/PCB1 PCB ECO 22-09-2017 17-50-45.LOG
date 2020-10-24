@@ -1,0 +1,6 @@
+Added Component: Designator=R?(RESC3216X07M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DigiKey-Part"; Value = "541-0.0ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=S bus (5.775 X 3.30 inches) Member=Component R? 0
